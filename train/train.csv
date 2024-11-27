@@ -1,0 +1,18 @@
+text,label
+"Sonion Vietnam Co., Ltd",buyer_company
+"ABC Manufacturing Co., Ltd",seller_company
+Số (No.): 9220888,invoice_number
+Date: 23.11.2024,date
+"Total amount: 2,614.80 USD",total_amount
+Total VAT: 261.48 USD,vat_amount
+"Item 12345, Quantity: 100, Unit Price: 10 USD",product
+41240-CHI,invoice_number
+Date: 12.10.2023,date
+"Customer: Electronics Co., Ltd",buyer_company
+Supplier: XYZ Supplies,seller_company
+"Total: 3,500.00 USD",total_amount
+"Product ABC, Quantity: 50, Unit Price: 20 USD",product
+"Product DEF, Quantity: 25, Unit Price: 15 USD",product
+"FLEXAN, LLC",seller_company
+SONION VIETNAM CO LTD,buyer_company
+11/22/2024,date
